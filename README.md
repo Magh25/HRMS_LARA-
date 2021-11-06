@@ -1,1 +1,10 @@
-Laravel Human Resource Management System in Laravel Framework
+
+HRMS lara
+
+
+# php artisan key:generate
+# php artisan megrate
+# php artisan db:seed
+# php artisan serve
+
+
